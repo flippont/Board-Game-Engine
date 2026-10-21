@@ -1,0 +1,3 @@
+class Dice extends Piece {
+    
+}
