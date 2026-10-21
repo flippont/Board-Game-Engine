@@ -1,3 +1,5 @@
+import { HexSystem } from "../utilities/hex_system.js";
+import { GridSystem } from "../utilities/grid_system.js";
 
 class Tree extends Entity{
     constructor(x, y, tree, system = null) {
